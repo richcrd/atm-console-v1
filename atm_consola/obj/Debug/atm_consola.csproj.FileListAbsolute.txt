@@ -1,0 +1,7 @@
+C:\Users\maria magdalena\Desktop\C# Projects\atm_consola\atm_consola\atm_consola\obj\Debug\atm_consola.csproj.AssemblyReference.cache
+C:\Users\maria magdalena\Desktop\C# Projects\atm_consola\atm_consola\atm_consola\obj\Debug\atm_consola.csproj.CoreCompileInputs.cache
+C:\Users\maria magdalena\Desktop\C# Projects\atm_consola\atm_consola\atm_consola\bin\Debug\atm_consola.exe.config
+C:\Users\maria magdalena\Desktop\C# Projects\atm_consola\atm_consola\atm_consola\bin\Debug\atm_consola.exe
+C:\Users\maria magdalena\Desktop\C# Projects\atm_consola\atm_consola\atm_consola\bin\Debug\atm_consola.pdb
+C:\Users\maria magdalena\Desktop\C# Projects\atm_consola\atm_consola\atm_consola\obj\Debug\atm_consola.exe
+C:\Users\maria magdalena\Desktop\C# Projects\atm_consola\atm_consola\atm_consola\obj\Debug\atm_consola.pdb
